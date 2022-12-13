@@ -1,0 +1,13 @@
+*, *::before, *::after{
+    font-family: 'Raleway', serif;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+.bigdiv{
+    display: grid;
+    grid: 150px / auto auto;
+}
